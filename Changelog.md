@@ -1,6 +1,7 @@
 ### 0.4.14 (unreleased)
 
 Features:
+ * Inline assembly: Support bitwise shift operators (EIP145).
 
 Bugfixes:
 
