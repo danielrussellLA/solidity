@@ -1,6 +1,7 @@
 ### 0.4.14 (unreleased)
 
 Features:
+ * Inline Assembly: Support variable declaration without initial value (defaults to 0).
 
 Bugfixes:
 
